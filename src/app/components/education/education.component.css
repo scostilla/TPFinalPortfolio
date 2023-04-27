@@ -1,0 +1,26 @@
+.row{
+    padding: 4%;
+}
+div{
+    background-color: #8a9597 ;   
+}
+
+/*Font styles*/
+#name {
+    font-family: 'RacingSansOne';
+    font-weight: bolder;
+    display: inline;
+}
+#title{
+    font-family: 'Tusj';
+    font-weight: bold;
+    text-align: center;
+}
+
+#subTitle{
+    font-family: 'RacingSansOne';
+}
+
+#speach{
+    font-family: 'Sriracha';
+}

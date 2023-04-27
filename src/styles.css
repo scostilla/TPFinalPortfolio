@@ -2,3 +2,13 @@
     font-family: 'Tusj';
     src: url("../src/assets/fonts/FFF-Tusj.ttf") format("opentype");
   }
+
+  @font-face {
+    font-family: 'RacingSansOne';
+    src: url("../src/assets/fonts/RacingSansOne-Regular.ttf") format("opentype");
+  }
+
+  @font-face {
+    font-family: 'Sriracha';
+    src: url("../src/assets/fonts/Sriracha-Regular.ttf") format("opentype");
+  }

@@ -9,12 +9,30 @@ div{
 /*Font styles*/
 
 #name {
+    font-family: 'RacingSansOne';
     font-weight: bolder;
 }
 #title{
+    font-family: 'Tusj';
     font-weight: bold;
 }
 
-#subtitle{
+#subTitle{
+    font-family: 'RacingSansOne';
+}
 
+#speach{
+    font-family: 'Sriracha';
+}
+
+#myProfilePhoto{
+    border-radius: 10%;
+    border: 5px solid #4f4ea74f;
+    overflow: hidden;
+    width: 200px; /* ajusta el tamaño de acuerdo a tus necesidades */
+    height: 200px; /* ajusta el tamaño de acuerdo a tus necesidades */
+    position: absolute;
+    top: 145%; /* ajusta la posición vertical de acuerdo a tus necesidades */
+    left: 12%; /* ajusta la posición horizontal de acuerdo a tus necesidades */
+    transform: translate(-50%, -50%);
 }

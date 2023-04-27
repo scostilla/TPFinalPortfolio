@@ -1,9 +1,9 @@
 .title{
   font-family: 'Tusj';
   text-align: center;
-  color: #ecd6c0;
+  color: #ff9222;
   position: absolute;
-  top: 35%;
+  top: 32%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -15,17 +15,5 @@ img
 .container {
     position: relative;
   }
-  
-  .circle-image {
-    border-radius: 50%;
-    overflow: hidden;
-    width: 200px; /* ajusta el tamaño de acuerdo a tus necesidades */
-    height: 200px; /* ajusta el tamaño de acuerdo a tus necesidades */
-    position: absolute;
-    top: 7%; /* ajusta la posición vertical de acuerdo a tus necesidades */
-    left: 15%; /* ajusta la posición horizontal de acuerdo a tus necesidades */
-    transform: translate(-50%, -50%);
-  }
-
 
 
